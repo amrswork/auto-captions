@@ -26,7 +26,7 @@ Requires **DaVinci Resolve Studio** (scripts with windows don't run in the free 
 ## Is it safe?
 - All the code is here: `Auto Captions.py` is plain text you can read
 - The installer is built from `installer.nsi` in this repo
-- VirusTotal scan: *(link)*
+- VirusTotal scan: (https://www.virustotal.com/gui/file/0fa1da1940d395b15853e70da5cf84adcd9fba000c4908173388454cf4bf87c2?nocache=1)
 
 ## Credits
 - Made by **Amr**
